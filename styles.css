@@ -2,15 +2,15 @@
     box-sizing: border-box;
     display: flex;
     flex-wrap: wrap;
-    width: 340px;
+    width: 260px;
     padding: 10px;
     justify-content: space-between;
 }
 
 .square-div {
     background-color: black;
-    width: 20px;
-    height: 20px;
+    width: 15px;
+    height: 15px;
     box-sizing: border-box;
     margin: 0;
 }
